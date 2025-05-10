@@ -1,2 +1,1 @@
-# oksirji
-my wesite 
+# amul
